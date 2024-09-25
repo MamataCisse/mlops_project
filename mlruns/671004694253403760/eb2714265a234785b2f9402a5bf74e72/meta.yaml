@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/mamat/Documents/mlops_project/mlruns/671004694253403760/eb2714265a234785b2f9402a5bf74e72/artifacts
+end_time: 1726902158226
+entry_point_name: ''
+experiment_id: '671004694253403760'
+lifecycle_stage: active
+run_id: eb2714265a234785b2f9402a5bf74e72
+run_name: bald-wolf-459
+run_uuid: eb2714265a234785b2f9402a5bf74e72
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1726902106118
+status: 3
+tags: []
+user_id: mamat
